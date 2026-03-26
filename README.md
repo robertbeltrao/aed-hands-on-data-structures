@@ -234,7 +234,7 @@ Além dos métodos acima, implemente:
 
 -----
 
-#### 💡 Exemplos de uso
+#### Exemplo
 
 ```python
 arr = MyArray()
@@ -255,7 +255,7 @@ arr.remove(3)
 print(arr) # [1, 5]
 ```
 
-#### 2 — Busca Linear
+### 2 — Busca Linear
 
 > Implemente em `src/linear_search.py`
 
@@ -324,16 +324,6 @@ arr.append(7)
 
 binary_search(arr, 5) # 2
 binary_search(arr, 2) # -1
-```
-
-**Exemplo:**
-
-> Para a entrada: "Carlos"
-
-**Saída esperada:**
-
-```bash
-"Hello, Carlos!"
 ```
 
 ### 4 — Nó
